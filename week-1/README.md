@@ -5,7 +5,7 @@ over, all 3 LEDS should come on and stay in until the start button is pressed ag
 
 Simon says example: https://create.arduino.cc/projecthub/Arduino_Scuola/a-simple-simon-says-game-25ba99
 
-```java
+```c++
 Arduino: 1.8.10 (Mac OS X), Board: “Arduino Leonardo”
 Sketch uses 3956 bytes (13%) of program storage space. Maximum is 28672 bytes.
 Global variables use 149 bytes (5%) of dynamic memory, leaving 2411 bytes for local variables. Maximum is 2560 bytes.
