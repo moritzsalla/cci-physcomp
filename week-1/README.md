@@ -5,7 +5,7 @@ over, all 3 LEDS should come on and stay in until the start button is pressed ag
 
 Simon says example: https://create.arduino.cc/projecthub/Arduino_Scuola/a-simple-simon-says-game-25ba99
 
-Error Code!
+__Error Code!__
 
 ```c++
 Arduino: 1.8.10 (Mac OS X), Board: “Arduino Leonardo”
