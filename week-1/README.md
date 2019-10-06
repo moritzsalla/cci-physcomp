@@ -1,7 +1,7 @@
 # Simple Simon Says Game
 
-Brief: Get playful with buttons and LEDS. Make a simple timing game such as Simon Says with at least 3 levels and a clear start and end. Have 3 buttons for interaction and make it so you press the first botton to start the game. When the game is
-over, all 3 LEDS should come on and stay in until the start button is pressed again. If you have an idea for a better game, give it a go. I'm open to you editing these briefs. This is graduate school, have fun.
+Brief: Get playful with buttons and LEDS. Make a simple timing game such as __Simon Says__ with at least __3 levels__ and a __clear start and end__. Have __3 buttons for interaction__ and make it so you __press the first botton to start the game__. __When the game is
+over, all 3 LEDS should come on and stay in until the start button is pressed again__. If you have an idea for a better game, give it a go. I'm open to you editing these briefs. This is graduate school, have fun.
 
 Simon says example: https://create.arduino.cc/projecthub/Arduino_Scuola/a-simple-simon-says-game-25ba99
 
@@ -54,10 +54,72 @@ This report would have more information with
 option enabled in File -> Preferences.
 ```
 
-Simon Says Layout:
+### Simon Says Layout:
 
 ![Simon Says Layout](simon-says-layout-1.jpeg)
 
-Simon Says Layout using double transistors like in example (necessary?):
+### Simon Says Layout using double transistors like in example (necessary?):
 
 ![Simon Says Layout using double transistors](simon-says-layout-2.jpeg)
+
+### Logic
+I'm trying to scribble down some code without actually being able to test anything
+
+```java
+int level = 0;
+
+void setup() {
+// declare analog inputs
+   pinMode(A0, INPUT);
+   pinMode(A1, INPUT);
+   pinMode(A2, INPUT);
+   pinMode(A3, INPUT);
+   
+// declare analog inputs
+   pinMode(4, OUTPUT);
+   pinMode(5, OUTPUT);
+   pinMode(6, OUTPUT);
+   pinMode(7, OUTPUT);
+   
+// set all outputs to low
+   digitalWrite(4, LOW);
+   digitalWrite(5, LOW);
+   digitalWrite(6, LOW);
+   digitalWrite(7, LOW);
+}
+
+if ((digitalRead(A0) == LOW) || (digitalRead(A1) == LOW) || (digitalRead(A2) == LOW) || (digitalRead(A3) == LOW) && level == 0) {
+   level++;
+   ShowLevelOne();
+}
+
+// Declare levels:
+declare void ShowlevelOne() {
+   digitalWrite(2, LOW);
+   digitalWrite(3, LOW);
+   digitalWrite(4, LOW);
+   digitalWrite(5, LOW);
+   delay(250);
+
+   digitalWrite(2, HIGH);
+   digitalWrite(3, HIGH);
+   digitalWrite(4, HIGH);
+   digitalWrite(5, HIGH);
+   delay(500);
+
+   digitalWrite(2, LOW);
+   digitalWrite(3, LOW);
+   digitalWrite(4, LOW);
+   digitalWrite(5, LOW);
+   delay(500);
+}
+
+declare void ShowlevelTwo() {
+   ...
+}
+
+declare void ShowlevelThree() {
+  ...
+}
+
+```
