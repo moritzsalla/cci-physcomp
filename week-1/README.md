@@ -56,7 +56,7 @@ option enabled in File -> Preferences.
 
 ### Simon Says Layout:
 
-![Simon Says Layout using double transistors](simon-says-layout-2.jpeg)
+![Simon Says Layout using double transistors](simon-says-layout.jpeg)
 
 ### Logic
 I'm trying to scribble down some code without actually being able to test anything
