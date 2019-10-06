@@ -1,14 +1,11 @@
 # Simple Simon Says Game
 
-First homework for Phoenix's physcomp class.
-Moritz Salla
-
-Brief: Get playful with buttons and LEDS. Make a simple timing game such as __Simon Says__ with at least __3 levels__ and a __clear start and end__. Have __3 buttons for interaction__ and make it so you __press the first botton to start the game__. __When the game is
-over, all 3 LEDS should come on and stay in until the start button is pressed again__. If you have an idea for a better game, give it a go. I'm open to you editing these briefs. This is graduate school, have fun.
+Brief: Get playful with buttons and LEDS. Make a simple timing game such as Simon Says with at least 3 level and a clear start and en. Have 3 buttons for interaction and make it so youpress the first botton to start the game. When the game is
+over, all 3 LEDS should come on and stay in until the start button is pressed again. If you have an idea for a better game, give it a go. I'm open to you editing these briefs. This is graduate school, have fun.
 
 Simon says example: https://create.arduino.cc/projecthub/Arduino_Scuola/a-simple-simon-says-game-25ba99
 
-__Error Code!__
+## Error Code
 
 ```c++
 Arduino: 1.8.10 (Mac OS X), Board: “Arduino Leonardo”
