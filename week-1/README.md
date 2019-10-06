@@ -1,5 +1,8 @@
 # Simple Simon Says Game
 
+First homework for Phoenix's physcomp class.
+Moritz Salla
+
 Brief: Get playful with buttons and LEDS. Make a simple timing game such as __Simon Says__ with at least __3 levels__ and a __clear start and end__. Have __3 buttons for interaction__ and make it so you __press the first botton to start the game__. __When the game is
 over, all 3 LEDS should come on and stay in until the start button is pressed again__. If you have an idea for a better game, give it a go. I'm open to you editing these briefs. This is graduate school, have fun.
 
@@ -55,10 +58,6 @@ option enabled in File -> Preferences.
 ```
 
 ### Simon Says Layout:
-
-![Simon Says Layout](simon-says-layout-1.jpeg)
-
-### Simon Says Layout using double transistors like in example (necessary?):
 
 ![Simon Says Layout using double transistors](simon-says-layout-2.jpeg)
 
