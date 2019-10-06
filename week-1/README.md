@@ -54,6 +54,6 @@ This report would have more information with
 option enabled in File -> Preferences.
 ```
 
-![Simon Says Layout](simon-says-layout-1.HEIC)
+![Simon Says Layout](simon-says-layout-1.jpeg)
 
-![Simon Says Layout using double transistors](simon-says-layout-2.HEIC)
+![Simon Says Layout using double transistors](simon-says-layout-2.jpeg)
