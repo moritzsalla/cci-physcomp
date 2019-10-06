@@ -25,7 +25,7 @@ avrdude: butterfly_recv(): programmer is not responding
 avrdude: ser_send(): write error: Device not configured
 avrdude: ser_recv(): read error: Device not configured
 avrdude: butterfly_recv(): programmer is not responding
-Found programmer: Id = “”; type = 
+Found programmer: Id = “”; type =
    Software Version = .; Hardware Version = .
 avrdude: ser_send(): write error: Device not configured
 avrdude: ser_recv(): read error: Device not configured
@@ -53,3 +53,7 @@ This report would have more information with
 “Show verbose output during compilation”
 option enabled in File -> Preferences.
 ```
+
+![Simon Says Layout](simon-says-layout-1.HEIC)
+
+![Simon Says Layout using double transistors](simon-says-layout-2.HEIC)
