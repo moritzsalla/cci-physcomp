@@ -56,7 +56,4 @@ option enabled in File -> Preferences.
 
 ### Simon Says Layout:
 
-<<<<<<< HEAD
-![Simon Says Layout using double transistors](simon-says-layout-2.jpeg)
-=======
 ![Simon Says Layout using double transistors](simon-says-layout.jpeg)
