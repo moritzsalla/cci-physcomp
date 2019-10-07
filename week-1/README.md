@@ -1,11 +1,13 @@
 # Simple Simon Says Game
 
-Brief: Get playful with buttons and LEDS. Make a simple timing game such as Simon Says with at least 3 level and a clear start and en. Have 3 buttons for interaction and make it so youpress the first botton to start the game. When the game is
+Get playful with buttons and LEDS. Make a simple timing game such as Simon Says with at least 3 level and a clear start and en. Have 3 buttons for interaction and make it so youpress the first botton to start the game. When the game is
 over, all 3 LEDS should come on and stay in until the start button is pressed again. If you have an idea for a better game, give it a go. I'm open to you editing these briefs. This is graduate school, have fun.
 
 Simon says example: https://create.arduino.cc/projecthub/Arduino_Scuola/a-simple-simon-says-game-25ba99
 
 ## Error Code
+
+Tried to code it without any board, gave up. Then tried to create a virtual interface with js but couldn't get past the logic bit.
 
 ```c++
 Arduino: 1.8.10 (Mac OS X), Board: “Arduino Leonardo”

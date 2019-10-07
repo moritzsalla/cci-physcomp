@@ -1,0 +1,21 @@
+$color-a: #BCB382;
+$color-b: #2D4739;
+$color-c: #3C4F76;
+
+html {
+  min-height: 100vh;
+  width: 100%;
+}
+
+div.start {
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .button {
+    cursor: pointer;
+  }
+}
