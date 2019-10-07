@@ -7,7 +7,8 @@ Simon says example: https://create.arduino.cc/projecthub/Arduino_Scuola/a-simple
 
 ## Error Code
 
-Tried to code it without any board, gave up. Then tried to create a virtual interface with js but couldn't get past the logic bit.
+Tried to code it without any board, gave up. 
+Then tried to create a virtual interface with js (simon-says-js) but couldn't get past the logic bit.
 
 ```c++
 Arduino: 1.8.10 (Mac OS X), Board: “Arduino Leonardo”
