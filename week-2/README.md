@@ -14,8 +14,8 @@
 
 ## LEDs in series/parallel 
 
-Practically: More than I was able to test
-Theoretically: V = I * R
+Practically: More than I was able to test<br />
+__Theoretically: V = I * R__
 
 ![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/serial-led.jpg)
 
