@@ -23,7 +23,7 @@ __Theoretically: V = I * R__
 
 ![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/potentiometer.jpg)
 
-→ https://www.youtube.com/watch?v=syyrqIq4IEU
+→ https://youtu.be/KLnQmeqmp2c
 
 ## PIRS Motion Sensor
 
