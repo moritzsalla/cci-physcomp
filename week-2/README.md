@@ -5,7 +5,7 @@
 
 Practically: More than I was able to test
 Theoretically: V = I * R
-![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/serial-led.jpeg)
+![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/serial-led.jpg)
 
 - How many leds can you hook up with a 220k resistor in parallel before running out of voltage?
 2. Serial Data
@@ -17,5 +17,5 @@ Theoretically: V = I * R
 5. Playing with Common Sensors
 → __Collab with Harry, we had the PIRS motion sensor__
 
-![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/motion-sensor-1.jpeg)
-![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/motion-sensor-2.jpeg)
+![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/motion-sensor-1.jpg)
+![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/motion-sensor-2.jpg)
