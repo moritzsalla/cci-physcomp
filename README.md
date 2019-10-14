@@ -1,3 +1,3 @@
-# Homework: Physical Computation with Phoenix Perry
+# Homework: Physical Computation
 
 Note to self: don't rename repo!
