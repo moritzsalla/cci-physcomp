@@ -23,9 +23,9 @@ __Theoretically: V = I * R__
 
 analogRead pot, analogWrite to pin using PWM. map(value, fromLow, fromHigh, toLow, toHigh) comes in handy!
 
-![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/potentiometer.jpg)
-
 → https://youtu.be/KLnQmeqmp2c
+
+![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/potentiometer.jpg)
 
 ## PIRS Motion Sensor
 
