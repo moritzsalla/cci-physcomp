@@ -19,8 +19,8 @@ __Theoretically: V = I * R__<br />
 __(Linear) RT = R1 + R2 + R3 ...__<br />
 __(Parallel) R_total = 1/r1 + 1/r2 + 1/r3 ...__
 
-
 ![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/serial-led.jpg)
+![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/parallel-led.jpg)
 
 ## Potentiometer
 
