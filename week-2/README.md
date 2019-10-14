@@ -12,14 +12,14 @@
 5. Playing with Common Sensors
 → __Collab with Harry, we had the PIRS motion sensor__
 
-### LEDs in series/parallel 
+## LEDs in series/parallel 
 
 Practically: More than I was able to test
 Theoretically: V = I * R
 
 ![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/serial-led.jpg)
 
-### PIRS Motion Sensor
+## PIRS Motion Sensor
 
 ![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/motion-sensor-1.jpg)
 ![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/motion-sensor-2.jpg)
