@@ -19,6 +19,12 @@ __Theoretically: V = I * R__
 
 ![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/serial-led.jpg)
 
+## Potentiometer
+
+![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/potentiometer.jpg)
+
+→ https://www.youtube.com/watch?v=syyrqIq4IEU
+
 ## PIRS Motion Sensor
 
 ![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/motion-sensor-1.jpg)
