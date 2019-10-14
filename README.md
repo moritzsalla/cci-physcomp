@@ -1,3 +1,3 @@
 # Physical Computation Homework
 
-Don't rename repo!
+Note to self: don't rename repo!
