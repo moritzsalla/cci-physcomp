@@ -7,8 +7,8 @@ Simon says example: https://create.arduino.cc/projecthub/Arduino_Scuola/a-simple
 
 ## Error Code
 
-Tried to code it without any board, gave up. 
-Then tried to create a virtual interface with js (simon-says-js) but couldn't get past the logic bit.
+Apple removed support for 32bit applications.
+Arduino plugin for VS Code runs the IDE in the background, hence that won't work either.
 
 ```c++
 Arduino: 1.8.10 (Mac OS X), Board: “Arduino Leonardo”
