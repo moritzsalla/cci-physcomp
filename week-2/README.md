@@ -16,11 +16,11 @@
 
 Practically more than I was able to test. How can this be so many? I am using the 220K transistor, as asked for. Ah, now I know, __I was using the 5V output and not a digital pin, which obviously has a lower voltage.__
 
-__(Linear) RT = R1 + R2 + R3 ...__
+### (Linear) RT = R1 + R2 + R3 ...
 
 ![Image](serial-led.jpg)
 
-__(Parallel) R_total = 1/r1 + 1/r2 + 1/r3 ...__
+### (Parallel) R_total = 1/r1 + 1/r2 + 1/r3 ...
 
 ![Image](parallel-led.jpg)
 
