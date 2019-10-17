@@ -14,7 +14,8 @@
 
 ## LEDs in series/parallel 
 
-Practically: More than I was able to test. How can this be so many? I am using the 220K transistor, as asked for. Ah, now I know, I'm using the 5V output and not a digital pin.<br />
+Practically: More than I was able to test. How can this be so many? I am using the 220K transistor, as asked for. Ah, now I know, I'm using the 5V output and not a digital pin.
+
 __Theoretically: V = I * R__<br />
 __(Linear) RT = R1 + R2 + R3 ...__<br />
 __(Parallel) R_total = 1/r1 + 1/r2 + 1/r3 ...__
