@@ -20,14 +20,16 @@ __Theoretically: V = I * R__<br />
 __(Linear) RT = R1 + R2 + R3 ...__<br />
 __(Parallel) R_total = 1/r1 + 1/r2 + 1/r3 ...__
 
-
-![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/serial-led.jpg)
-![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/parallel-led.jpg)
+![Image](serial-led.jpg)
+![Image](parallel-led.jpg)
 
 ## Serial Data
 My simple chatbot inspired by the miserable lady that serves food in the cantine.
 
 I honestly have to say that the arduino serial input and loop function are really messing with me. I had already created the same chatbot in python (since my arduino IDE still won't work on my mac), which worked like a charm. The loop function will simply loop over all of my voids and I don't know how to make it stop at a given function until the player enters an input. I'll upload screenshots of both versions.
+
+![Image](chatbot-python.jpg)
+![Image](chatbot-ino.jpg)
 
 ## Potentiometer
 
@@ -35,9 +37,9 @@ analogRead pot, analogWrite to pin using PWM. map(value, fromLow, fromHigh, toLo
 
 → https://youtu.be/KLnQmeqmp2c
 
-![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/potentiometer.jpg)
+![Image](potentiometer.jpg)
 
 ## PIRS Motion Sensor
 
-![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/motion-sensor-1.jpg)
-![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/motion-sensor-2.jpg)
+![Image](motion-sensor-1.jpg)
+![Image](motion-sensor-2.jpg)
