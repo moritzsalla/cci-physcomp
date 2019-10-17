@@ -22,6 +22,9 @@ __(Parallel) R_total = 1/r1 + 1/r2 + 1/r3 ...__
 ![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/serial-led.jpg)
 ![Image](https://github.com/moritzsalla/cci-physcomp-homework/blob/master/week-2/parallel-led.jpg)
 
+## Serial Data
+I have created a simple chatbot inspired by the miserable lady that serves food in the cantine.
+
 ## Potentiometer
 
 analogRead pot, analogWrite to pin using PWM. map(value, fromLow, fromHigh, toLow, toHigh) comes in handy!
