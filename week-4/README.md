@@ -39,9 +39,9 @@ Give a go with this tutorial What are some creative ideas you could do with this
 
 ### The Capsense library
 
-Can sense the proximity of your finger to the copper sheet.
+Can sense the proximity of your finger to the copper sheet. Putting a sheet of paper in between finger and the copper will seemingly yield slightly more consistent results, almost like its smoothing it out.
 
 → https://www.youtube.com/watch?v=NMztw_KA2pQ
 
-![Image](capsense.jpeg)
 ![Image](capsense-screenshot.png)
+![Image](capsense.jpeg)
