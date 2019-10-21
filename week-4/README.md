@@ -17,22 +17,27 @@ Do this tutorial
 Give a go with this tutorial What are some creative ideas you could do with this? Try one out and submit it as this lab.
 
 ### Project Proposal
+
 ### Servo
 
 → https://www.youtube.com/watch?v=7iTaoesFQiI
+![Image](servo.jpeg)
 
 ### Motor
 
 → https://www.youtube.com/watch?v=NCE7Avfonng
+![Image](motor.jpeg)
 
 ### Touch Sensor
 
 → https://www.youtube.com/watch?v=CDuVy3IS4fw
+![Image](touch-sensor-1.jpeg)
+![Image](touch-sensor-2.jpeg)
 
 ### The Capsense library
 
 Can sense the proximity of your finger to the copper sheet.
 
 → https://www.youtube.com/watch?v=NMztw_KA2pQ
-
-[Image](screenshot.png)
+![Image](capsense.jpeg)
+![Image](capsense-screenshot.png)
