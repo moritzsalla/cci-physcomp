@@ -37,7 +37,7 @@ Give a go with this tutorial What are some creative ideas you could do with this
 ![Image](touch-sensor-1.jpeg)
 ![Image](touch-sensor-2.jpeg)
 
-### The Capsense library
+### The Capsense Library
 
 Can sense the proximity of your finger to the copper sheet. Putting a sheet of paper in between finger and the copper will seemingly yield slightly more consistent results, almost like its smoothing it out.
 
@@ -45,3 +45,11 @@ Can sense the proximity of your finger to the copper sheet. Putting a sheet of p
 
 ![Image](capsense-screenshot.png)
 ![Image](capsense.jpeg)
+
+### Having fun with Capsense
+
+This script visualizes how hard you press the copper sheet by toggling different LEDs at different input levels. If you hover your finger just where the clips touch the copper, the leds start to flicker rapidly.
+
+→ https://www.youtube.com/watch?v=NMztw_KA2pQ
+
+![Image](haptic-touch.jpeg)
