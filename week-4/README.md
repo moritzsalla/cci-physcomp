@@ -43,5 +43,5 @@ Can sense the proximity of your finger to the copper sheet. Putting a sheet of p
 
 → https://www.youtube.com/watch?v=NMztw_KA2pQ
 
-![Image](capsense.jpeg)
 ![Image](capsense-screenshot.png)
+![Image](capsense.jpeg)
