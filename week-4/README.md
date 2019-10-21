@@ -22,7 +22,7 @@ Give a go with this tutorial What are some creative ideas you could do with this
 
 → https://www.youtube.com/watch?v=7iTaoesFQiI
 
-![Image](servo.jpeg)
+![Image](servo.png)
 
 ### Motor
 
