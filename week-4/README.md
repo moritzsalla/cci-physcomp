@@ -50,6 +50,6 @@ Can sense the proximity of your finger to the copper sheet. Putting a sheet of p
 
 This script visualizes how hard you press the copper sheet by toggling different LEDs at different input levels. If you hover your finger just where the clips touch the copper, the leds start to flicker rapidly.
 
-→ https://www.youtube.com/watch?v=NMztw_KA2pQ
+→ https://www.youtube.com/watch?v=aLMEo92WnjQ
 
 ![Image](haptic-touch.jpeg)
