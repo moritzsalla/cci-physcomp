@@ -30,14 +30,14 @@ Give a go with this tutorial What are some creative ideas you could do with this
 
 ![Image](motor.jpeg)
 
-### Touch Sensor
+### MPR121 Touch Sensor
 
 → https://www.youtube.com/watch?v=CDuVy3IS4fw
 
 ![Image](touch-sensor-1.jpeg)
 ![Image](touch-sensor-2.jpeg)
 
-### The Capsense Library
+### Capsense Setup
 
 Can sense the proximity of your finger to the copper sheet. Putting a sheet of paper in between finger and the copper will seemingly yield slightly more consistent results, almost like its smoothing it out.
 
