@@ -18,7 +18,7 @@ Give a go with this tutorial What are some creative ideas you could do with this
 
 ### Project Proposal
 
-This is my proposal. The actual project log will be in this repo: https://github.com/moritzsalla/cci-physcomp-final for now.
+__This is my proposal. The actual project log will be in this repo: https://github.com/moritzsalla/cci-physcomp-final for now.__
 
 I’m interested in how atmosphere is created through sound and light. Possibly because I'm the son of an opera singer and have a fascination for set design tucked away somewhere. I'm inspired by how light and sound interplay in Annie Tådne's "[Boberg 1](https://tadne.se/performance/boberg-1/)" and Felix Faire's "[Contact](https://felixfaire.com/project/contact)" but feel the tabletop is quite an over-explored interface. Olafur Eliasson talks a lot about how work is created in the moment it is perceived by the viewer ("[Rainbow Assembly](https://olafureliasson.net/archive/artwork/WEK110117/rainbow-assembly)" is a good example of this).
 
