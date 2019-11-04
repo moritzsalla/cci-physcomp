@@ -37,6 +37,8 @@ This made me wonder if light can be used as an interface, for example, to create
 
 ### Motor
 
+Swapping voltage and ground will make the motor go in reverse direction.
+
 → https://www.youtube.com/watch?v=NCE7Avfonng
 
 ![Image](motor.jpeg)
