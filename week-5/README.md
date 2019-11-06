@@ -1,6 +1,6 @@
 # Week 5 Practical
 
-## Simple synths
+### Simple synths
 
 Try and build an analog synth
 
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=EmoF-sdWOCc
 There are several capacitors in your kit. Play with them and experiment with hooking up more than one oscillator. Have fun!
 Film a short clip of each configuration and share in your documentation
 
-## Here it goes:
+### Here it goes:
 
 Using a photoresistor:
 
