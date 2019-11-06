@@ -17,13 +17,13 @@ Film a short clip of each configuration and share in your documentation
 
 ## Results
 
-### Using a photoresistor
+## Using a photoresistor
 
 https://youtu.be/7MWaKuZVej4
 
 ![Image](img-1.png)
 
-### Using a potentiometer:
+## Using a potentiometer:
 
 https://www.youtube.com/watch?v=I-322TSJpFU
 
