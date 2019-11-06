@@ -21,6 +21,10 @@ Using a photoresistor:
 
 https://youtu.be/7MWaKuZVej4
 
+![Image](image-1.png)
+
 Using a potentiometer:
 
 https://www.youtube.com/watch?v=I-322TSJpFU
+
+![Image](image-2.png)
