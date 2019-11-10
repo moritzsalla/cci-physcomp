@@ -19,6 +19,8 @@ Film a short clip of each configuration and share in your documentation
 
 #### Using a photoresistor
 
+Adding more resitance to the circuit will alter the pitch.
+
 https://youtu.be/7MWaKuZVej4
 
 ![Image](img-1.png)
