@@ -7,6 +7,6 @@ Submit a short video as always.
 ### Shift Registers and Multiplexing
 
 https://youtu.be/m7H3PAK1jWA<br>
-https://youtu.be/WV0FUZOj_SE
+https://youtu.be/IEZriN-9zxc
 
 ![Image](img-1.jpeg)
