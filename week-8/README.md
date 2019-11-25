@@ -1,4 +1,4 @@
-# Week 8
+# Eagle
 
 https://learn.sparkfun.com/tutorials/using-eagle-board-layout
 

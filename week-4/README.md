@@ -1,4 +1,4 @@
-# Week 4 Practical
+# Project Proposal, Servo & Touch
 
 1. Project proposal
 For next week make sure you fill out the final project proposal form

@@ -1,4 +1,6 @@
-# Week 3 Practical
+# Fading
+
+### Assignment
 
 1. Playing with fades
 - Build this circuit → https://www.arduino.cc/en/Tutorial/Fade

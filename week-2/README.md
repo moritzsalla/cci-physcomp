@@ -1,4 +1,6 @@
-# Week 2 Practical
+# Parallel & Series, Serial Data, Motion Sensor, Potentiometers
+
+### Assignment
 
 1. LEDs in serial & parallel
 - How many leds can you hook up with a 220k resistor in serial before running out of voltage?
