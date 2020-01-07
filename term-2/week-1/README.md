@@ -2,7 +2,7 @@
 
 ### Assignment
 
--[] Create a snake game on paper
+- [] Create a snake game on paper
 2. Download Unity
 3. Grab this week's Unity creative Coding examples from Github. Try some out on your own. What can you make using these as a base?
 4. Listen to https://99percentinvisible.org/episode/froebels-gifts/
