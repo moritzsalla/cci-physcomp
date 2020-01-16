@@ -8,7 +8,7 @@ EAGLE is a scriptable electronic design automation application with schematic ca
 
 Download components within the library section.
 
-### Schematics
+## Schematics
 
 My first eagle schematic, showing a sensor array of 5 photoresistors:
 
@@ -17,3 +17,7 @@ My first eagle schematic, showing a sensor array of 5 photoresistors:
 I have extended this by an array of ambient light sensors:
 
 ![Schematic](schematic-2.png)
+
+Ended up making this in Eagle for my final:
+
+![Schematic](schematic.png)

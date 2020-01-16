@@ -1,6 +1,6 @@
 # Fading & Perf Boards
 
-### Assignment
+## Assignment
 
 1. Playing with fades
 
@@ -10,13 +10,13 @@
 2. Hook up a potentiometer to and measure the changing voltage using a multimeter. No documentation required.
 3. Make a dark detecting led
 
-### Fading LED soldered to perfboard
+## Fading LED soldered to perfboard
 
 ![Image](fade-soldered.jpg)
 
-Video doc → https://youtu.be/mOpdjP65LPc
+Video documentation is here → https://youtu.be/mOpdjP65LPc
 
-### Dark detecting LED
+## Dark detecting LED
 
 ![Image](dark-led.jpeg)
 
