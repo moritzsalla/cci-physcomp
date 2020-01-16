@@ -1,24 +1,24 @@
 # Project Proposal, Servo & Touch
 
 1. Project proposal
-For next week make sure you fill out the final project proposal form
+   For next week make sure you fill out the final project proposal form
 
 2. Hook up a servo.
-Hook up a servo and make it move using pwm. Do this tutorial
+   Hook up a servo and make it move using pwm. Do this tutorial
 
 3. Hook up a motor
-Using the circuit from the Arduino project book, do project 9. Feel free to get creative with the pinwheel bit of you want.
+   Using the circuit from the Arduino project book, do project 9. Feel free to get creative with the pinwheel bit of you want.
 
 4. Hook up an MPR121
-Create a circuit you control with a touch sensor.
-Do this tutorial
+   Create a circuit you control with a touch sensor.
+   Do this tutorial
 
 5. The Capsense library
-Give a go with this tutorial What are some creative ideas you could do with this? Try one out and submit it as this lab.
+   Give a go with this tutorial What are some creative ideas you could do with this? Try one out and submit it as this lab.
 
 ### Project Proposal
 
-__This is my proposal. The actual project log will be in this repo: https://github.com/moritzsalla/cci-physcomp-final for now.__
+**This is my proposal. The actual project log will be in this repo: https://github.com/moritzsalla/cci-physcomp-final for now.**
 
 I’m interested in how atmosphere is created through sound and light. Possibly because I'm the son of an opera singer and have a fascination for set design tucked away somewhere. I'm inspired by how light and sound interplay in Annie Tådne's "[Boberg 1](https://tadne.se/performance/boberg-1/)" and Felix Faire's "[Contact](https://felixfaire.com/project/contact)" but feel the tabletop is quite an over-explored interface. Olafur Eliasson talks a lot about how work is created in the moment it is perceived by the viewer ("[Rainbow Assembly](https://olafureliasson.net/archive/artwork/WEK110117/rainbow-assembly)" is a good example of this).
 
@@ -43,6 +43,7 @@ Swapping voltage and ground will make the motor go in reverse direction.
 → https://www.youtube.com/watch?v=CDuVy3IS4fw
 
 ![Image](touch-sensor-1.jpeg)
+
 ![Image](touch-sensor-2.jpeg)
 
 ### Capsense Setup
@@ -52,6 +53,7 @@ Can sense the proximity of your finger to the copper sheet. Putting a sheet of p
 → https://www.youtube.com/watch?v=NMztw_KA2pQ
 
 ![Image](capsense-screenshot.png)
+
 ![Image](capsense.jpeg)
 
 ### Having fun with Capsense

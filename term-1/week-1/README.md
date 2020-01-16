@@ -9,8 +9,7 @@ Simon says example: https://create.arduino.cc/projecthub/Arduino_Scuola/a-simple
 
 ## Error Code
 
-Apple removed support for 32bit applications.
-Arduino plugin for VS Code runs the IDE in the background, hence that won't work either.
+Apple removed support for 32bit applications. Arduino plugin for VS Code runs the IDE in the background, hence that won't work either. Apparently the newer chip on the leonardo isn't supported by the new Mac OS. Later on I got a Mega, which worked fine.
 
 ```c++
 Arduino: 1.8.10 (Mac OS X), Board: “Arduino Leonardo”

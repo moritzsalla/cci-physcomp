@@ -11,7 +11,9 @@ Download components within the library section.
 ### Schematics
 
 My first eagle schematic, showing a sensor array of 5 photoresistors:
+
 ![Schematic](schematic-1.png)
 
 I have extended this by an array of ambient light sensors:
+
 ![Schematic](schematic-2.png)
