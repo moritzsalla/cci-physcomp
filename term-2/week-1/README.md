@@ -13,3 +13,8 @@ We came up with a simple game in which one has to place a coin on a contestants 
 
 Initially we argued that players would have to take a picture and post this in a special group. We agreed that the public humiliation of waering a penny/pound is sufficient to create tension, however.
 
+## Game of Life
+
+I followed Shiffman's tutorial on youtube: https://www.youtube.com/watch?v=FWSR_7kZuYg.
+
+![Image](screenshot.png)
